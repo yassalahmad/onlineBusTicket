@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "806652268309",
+    "project_id": "onlinebusticketsapp",
+    "storage_bucket": "onlinebusticketsapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:806652268309:android:341f3f5f5f3b591b43e31c",
+        "android_client_info": {
+          "package_name": "com.online_bus_tickets.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "806652268309-0h70h6u5q1o6flrbebsrhf14t7d2f8o3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAh2bP3AQORIjYlaSTZ67fHE4bJDJCyopo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "806652268309-0h70h6u5q1o6flrbebsrhf14t7d2f8o3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
